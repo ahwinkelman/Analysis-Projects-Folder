@@ -16,7 +16,8 @@ The purpose of this analysis was to display the overall work force at Hewlett-Pa
  -1549 employees are eligibile for the mentorship program
  
  ![mentorship](https://user-images.githubusercontent.com/107078763/180659933-4ebaac6d-dafe-4851-abb6-673208f07a20.png)
-
+ 
+ ![query time](https://user-images.githubusercontent.com/107078763/180659953-784b56a3-7e65-41e9-9e44-b6edf8f81481.png)
  
  -The unique titles table shows the most recent title held by employees that are retirement ready
  
@@ -25,8 +26,5 @@ The purpose of this analysis was to display the overall work force at Hewlett-Pa
 
 # Summary 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There are 72,458 employees nearing retirement with only 1549 employees eligible for the mentorship program.  Pwelett Hackard does not have enough qualified backfills if the retirement ready employees decide to leave.
+There are 72,458 employees nearing retirement with only 1549 employees eligible for the mentorship program.  Pwelett Hackard does not have enough qualified backfills if the retirement ready employees decide to leave.  30% of PH's employees are retirement ready with only 2% eligible for the mentorship program.  PH will need to start to onboard more employees to lessen the impact of the potential silver tsunami.
