@@ -15,7 +15,8 @@ The purpose of this analysis was to display the overall work force at Hewlett-Pa
  
  -1549 employees are eligibile for the mentorship program
  
- 
+ ![mentorship](https://user-images.githubusercontent.com/107078763/180659933-4ebaac6d-dafe-4851-abb6-673208f07a20.png)
+
  
  -The unique titles table shows the most recent title held by employees that are retirement ready
  
